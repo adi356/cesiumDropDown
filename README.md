@@ -1,6 +1,7 @@
 # Cesium App
-Show's 5 locations and their associated 3D buildings around the world
-Written with Cesiumjs
+Show's 5 locations and their associated 3D buildings around the world - written with Cesiumjs
+
+https://cesium.com/platform/cesiumjs/
 
 ## To Run
 1. create a CesiumConfig.js file inside the js folder
